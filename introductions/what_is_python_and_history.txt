@@ -1,0 +1,34 @@
+python is a clear and powerful ops programming languagae comparable to perl, ruby, or java
+they combine features of C and java 
+
+python is developed by guido van rossum in 1991
+
+python name pick up by tv show "monty python's flying circus"
+
+features of python
+- easy to learn 
+- open source
+- large community support
+- extensive libraries
+- cross-platform compatibility
+- dynamic typing
+- interpreted language
+- object-oriented programming
+- functional programming capabilities
+- high-level language
+- indentation-based syntax
+- supports multiple programming paradigms
+- strong emphasis on readability
+- supports exception handling
+- automatic memory management
+- supports modules and packages
+
+python current latest version is 
+3.13.0
+
+python is widely used in various domains such as web development, data analysis, artificial intelligence, scientific computing, and automation. Its versatility and ease of use make it a popular choice for both beginners and experienced developers.
+
+working of python
+python code is executed by the python interpreter, which reads and executes the code line by line. This allows for immediate feedback and testing, making it a great language for rapid development and prototyping.
+
+ 
